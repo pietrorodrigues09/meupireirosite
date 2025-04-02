@@ -1,0 +1,24 @@
+body{
+    background-color: blanchedalmond;
+    margin-left: 2%;
+    margin-right: 2%;
+    color: blue;
+
+}
+h1,h2{
+    text-align: center;
+}
+p,ul{
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 1.5em;
+    text-indent: 20px;
+    background-color: wheat;
+}
+img{
+    display: block;
+    margin: auto;
+}
+footer{
+    text-align: center;
+}
